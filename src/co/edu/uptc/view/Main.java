@@ -602,6 +602,7 @@ public class Main {
             } catch (InputMismatchException e) {
                 System.out.println("Opcion invalida");
                 sc.nextLine();
+                
             }
 
         }
